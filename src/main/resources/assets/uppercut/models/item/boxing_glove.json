@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "uppercut:item/boxing_glove"
@@ -69,12 +70,18 @@
 			"translation": [0, 2, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
+		"gui": {
+			"rotation": [-6, -21.5, -43],
+			"translation": [1.5, 2, 0]
+		},
 		"head": {
-			"rotation": [0, 180, 0],
-			"translation": [0, 13, 7]
+			"rotation": [90, 0, -180],
+			"translation": [0, -1.5, -7],
+			"scale": [0.51172, 0.51172, 0.51172]
 		},
 		"fixed": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, 180, 0],
+			"translation": [0, 3, 0]
 		}
 	},
 	"groups": [
